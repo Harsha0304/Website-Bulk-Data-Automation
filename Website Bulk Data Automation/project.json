@@ -4,7 +4,9 @@
   "description": "Website Bulk Data Automation",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.4.4]"
+    "UiPath.Excel.Activities": "[3.1.0-preview]",
+    "UiPath.System.Activities": "[25.4.4]",
+    "UiPath.UIAutomation.Activities": "25.10.8"
   },
   "webServices": [],
   "entitiesStores": [],
